@@ -1,9 +1,21 @@
-// TITLE: Lyrics for MR by walterkammi
 //
+// ======================================================================================
+// Lyrics_for_MR by walterkammi
+// ======================================================================================
+//
+// ======================================================================================
+// [LICENSE]
 // Lyrics_for_MR © 1984 by walterkammi is licensed under CC BY-SA 4.0 
+// Lyrics_for_MR © 1984 by walterkammi is licensed under Creative Commons Attribution-ShareAlike 4.0 International. 
+// To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+// ======================================================================================
+// 
+// ======================================================================================
+// [NOTE]
 // This lyrics was originally written in 1984, when I was a school boy, on a paper.
-// This lyrics is intend to meet the tune, Magic Ray, which is composed by Issei Noro, Casiopea.
+// This lyrics is intend to meet the tune, "Magic Ray", which was composed by Issei Noro, Casiopea.
 // cf) Issei Noro, https://en.wikipedia.org/wiki/Issei_Noro
+// ======================================================================================
 //
 #include <stdio.h>
 void main (void) {
