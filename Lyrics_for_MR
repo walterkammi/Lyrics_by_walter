@@ -4,7 +4,7 @@
 // ======================================================================================
 //
 // ======================================================================================
-// [LICENSE]
+// [LICENSE of Lyrics_for_MR]
 // Lyrics_for_MR © 1984 by walterkammi is licensed under CC BY-SA 4.0 
 // 
 // Lyrics_for_MR © 1984 by walterkammi is licensed under Creative Commons Attribution-ShareAlike 4.0 International. 
@@ -39,8 +39,7 @@ void main (void) {
 
 // Intro melody comes without lyrics
 
-// part 1
-
+// part-A1
 When I , far away,
  for a chance,
  ....
@@ -49,9 +48,10 @@ here and there so far away,
 ... for surprise,
 When you emit a strange,
 ... far away, 
-Magic Ray, stair at me, all the days,
+Magic Ray, stair at me, all the days!
+// END of part-A1
 
-// chorus of the song
+// CHRORUS part of the song
 Darin', can't you see what is in me,
 So, please please be with me,
 What hardship over take to us,
@@ -64,20 +64,43 @@ I will ever find!
 
 I wish the time will come to me,
 You come trully straight to me.
+// END of CHORUS
 
 // keyboard solo, as interlude,
 
+// part-B
+So, I need, I need only you,
+But you, to me, you are what I need,
+But you, to me, is the whole world to be,
+So, for me, please be only straight to me,
+And you, to me, the heaven likely buddy,
+So please with me, please with me!
+// END of part-B
 
+// part-A2
+....
+....
+When you emit a strange,
+... far away, 
+Magic Ray, stair at me, all the days!
+// END of part-A2
 
 // part 2
 
-//
-Darin' can't you see what is in me,
-So, please please stay with me,
+// CHRORUS part of the song
+Darin', can't you see what is in me,
+So, please please be with me,
 What hardship over take to us,
+I'll never turn you down!
+
+Darin', see and never off your eyes,
+So, please be straiht to me,
+You are the only kind of one,
+I will ever find!
 
 I wish the time will come to me,
 You come trully straight to me.
+// END of CHORUS
 
 // ending melody comes without lyrics.
 
