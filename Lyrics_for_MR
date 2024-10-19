@@ -18,10 +18,14 @@
 // ======================================================================================
 // 
 // ======================================================================================
-// [NOTE]
+// [NOTE-EN]
 // This lyrics was originally written by me, waltercammi, in 1984, when I was a school boy, on a paper.
 // This lyrics is intend to meet the tune, "Magic Ray", which was composed by Issei Noro, Casiopea.
 // cf) Issei Noro, https://en.wikipedia.org/wiki/Issei_Noro
+// [NOTE-JP]
+// この歌詞は元々、1984 年に私、waltercammi、が学生だったときに紙に書いたものです。
+// この歌詞はカシオペア、野呂一生作曲の「Magic Ray」に合わせたものです。
+// cf) 野呂一生、https://en.wikipedia.org/wiki/Issei_Noro
 // ======================================================================================
 //
 #include <stdio.h>
